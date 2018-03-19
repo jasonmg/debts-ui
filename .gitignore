@@ -1,0 +1,10 @@
+#folders
+.babelrc
+.editorconfig
+.idea/
+*.iml
+.git
+node_modules
+build
+#files
+*.gradle
